@@ -18,7 +18,7 @@
         <div class="main-content">
             <div class="article">
                 <h2>🚂 【速報】プラレールジョイント新商品、木目調デザインで市場投入へ</h2>
-                <p>会議では、既存のプラレールジョイントを分析し、新たに木製フィラメントを使用した木目テイストの試作品開発が決定。子どもたちの創造性を刺激する温かみのあるデザインを目指すーーブリオブランドの参考事例</p>
+                <p>会議では、既存のプラレールジョイントを分析し、新たに木製フィラメントを使用した木目テイストの試作品開発が決定。子どもたちの創造性を刺激する温かみのあるデザインを目指す。</p>
                 <svg class="infographic" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
                     <rect x="10" y="10" width="180" height="80" rx="10" ry="10" fill="#f5deb3"/>
                     <path d="M20,20 C40,40 60,0 80,20 S120,60 140,20 S180,80 180,80" stroke="#8b4513" stroke-width="2" fill="none"/>
@@ -30,7 +30,7 @@
 
             <div class="article">
                 <h2>🤝 分散生産ネットワーク構築へ</h2>
-                <p>初期の小ロット生産から、将来的には1000個規模の量産も視野に。内職や障害者施設との連携による「分散生産」体制を構築し、地域社会への貢献も目指す。利益配分の最適化の検討</p>
+                <p>初期の小ロット生産から、将来的には1000個規模の量産も視野に。内職や障害者施設との連携による「分散生産」体制を構築し、地域社会への貢献も目指す。</p>
                  <svg class="infographic" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
                     <path d="M 50 50 Q 100 20 150 50" stroke="#007BFF" stroke-width="2" fill="none" stroke-dasharray="4"/>
                     <path d="M 50 50 Q 100 80 150 50" stroke="#007BFF" stroke-width="2" fill="none" stroke-dasharray="4"/>
@@ -47,7 +47,7 @@
 
             <div class="article">
                 <h2>🛒 Amazonと自社ECで販売展開</h2>
-                <p>販売戦略の柱は、AmazonでのFBA併売と楽天サイト及び将来的には自社ECサイトでの直販。さらに、人気YouTuberやタレントを起用したプロモーションで、ブランド認知度の向上を図る。</p>
+                <p>販売戦略の柱は、AmazonでのFBA併売と自社ECサイトでの直販。さらに、人気YouTuberやタレントを起用したプロモーションで、ブランド認知度の向上を図る。</p>
                  <svg class="infographic" viewBox="0 0 200 100" xmlns="http://www.w3.org/2000/svg">
                     <rect x="20" y="30" width="60" height="40" fill="#ff9900"/>
                     <text x="50" y="55" font-size="12" fill="#fff" text-anchor="middle">Amazon</text>
@@ -61,11 +61,11 @@
         </div>
 
         <nav>
-            <a href="./index.html">1: フロント</a>
-            <a href="./page2.html">2: 商品仕様</a>
-            <a href="./page3.html">3: 生産体制</a>
-            <a href="./page4.html">4: 販売戦略</a>
-            <a href="./page5.html">5: 全体像</a>
+            <a href="index.html">1: フロント</a>
+            <a href="page2.html">2: 商品仕様</a>
+            <a href="page3.html">3: 生産体制</a>
+            <a href="page4.html">4: 販売戦略</a>
+            <a href="page5.html">5: 全体像</a>
         </nav>
     </div>
 
